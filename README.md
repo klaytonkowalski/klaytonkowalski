@@ -7,7 +7,7 @@ Respositories are organized by the following prefixes:
 | Prefix | Description |
 | ------ | ----------- |
 | library- | Library that developers can link against or include in their own projects. |
-| example- | Example of some implementation that developers can learn from. These are finished solutions, not step-by-step tutorials. |
-| tutorial- | Step-by-step text-based tutorial. |
+| example- | Example of some solution that developers can learn from. These are fully implemented projects that come with a demo application, not step-by-step tutorials. |
+| tutorial- | Step-by-step text-based tutorial. These are what you might find in a typical programming-related blog. |
 
 Please click the ☆ button on GitHub if the repository is useful or interesting. Thank you!
