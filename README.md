@@ -1,16 +1,13 @@
-### Hi there 👋
+# Data Lake (klaytonkowalski)
 
-<!--
-**klaytonkowalski/klaytonkowalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I share many of my personal software projects here. All of my open-source projects are at least *somewhat* documented, such that anybody well-versed in the topic could understand the purpose of the repository and perhaps read and understand the code.
 
-Here are some ideas to get you started:
+Respositories are organized by the following prefixes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Prefix | Description |
+| ------ | ----------- |
+| library- | Library that developers can link against or include within their own projects. |
+| example- | Example of some implementation that developers can learn from. These are finished solutions, not step-by-step tutorials. |
+| tutorial- | Step-by-step text-based tutorial. |
+
+Please click the ☆ button on GitHub if the repository is useful or interesting. Thank you!
