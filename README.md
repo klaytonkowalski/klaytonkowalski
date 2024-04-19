@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! This is where I share some of my personal programming projects. Most of them are related to game development.
 
-Documentation is very important to me. If a codebase is difficult to navigate or understand, then it becomes increasingly close to a black-box system, which hinders many of the benefits of open-source software. My repositories are documented at least enough to explain why they exist and what problem they solve. Some of my repositories are more thoroughly documented, such that a skilled developer on the topic can understand and potentially contribute to the codebase.
-
 Respositories are organized by the following prefixes:
 
 | Prefix | Description | More |
