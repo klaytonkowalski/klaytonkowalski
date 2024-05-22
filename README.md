@@ -1,6 +1,8 @@
 # White Box Dev
 
-Welcome to my GitHub profile! This is where I share some of my personal programming projects. Most of them are related to game development.
+Welcome! This is where I share some of my personal programming projects. Most of them are related to game development.
+
+**In May 2024, I decided to retire this account. Future commits and repositories will be extremely rare or nonexistent, however I will continue to accept pull requests if necessary.**
 
 Respositories are organized by the following prefixes:
 
